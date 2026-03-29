@@ -1,5 +1,5 @@
 # WP Performance Toolkit ⚡
-> **Architectural patterns for achieving 100/100 PageSpeed scores and sub-500ms TTFB.**
+> **Architectural patterns for achieving 95+/100 PageSpeed scores and sub-500ms TTFB.**
 
 This repository contains high-performance snippets and configurations designed for enterprise-scale WordPress environments where every millisecond impacts conversion.
 
